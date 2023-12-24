@@ -1,0 +1,57 @@
+
+
+.result-container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 30px;
+    border: 2px solid #28a745; 
+    border-radius: 12px;
+    background-color: #f8f8f8;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+    transition: box-shadow 0.3s ease-in-out;
+    text-align: center;
+  }
+  
+  .result-container:hover {
+    box-shadow: 0 0 30px rgba(0, 128, 0, 0.5); 
+  }
+
+  h2 {
+    color: #28a745;
+    font-size: 28px;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); 
+  }
+  
+  .result-message {
+    font-size: 18px;
+    margin-top: 20px;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2); 
+  }
+  
+  .result-details {
+    font-size: 16px;
+    margin-top: 10px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
+  }
+
+  .poor {
+    color: #dc3545;
+    font-weight: bold;
+  }
+  
+  .average {
+    color: #ffc107;
+    font-weight: bold;
+  }
+  
+  .good {
+    color: #007bff;
+    font-weight: bold;
+  }
+  
+  .excellent {
+    color: #28a745;
+    font-weight: bold;
+  }
