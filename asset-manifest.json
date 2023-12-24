@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Codsoft_Task5_quizapp/static/css/main.f3e908ad.css",
-    "main.js": "/Codsoft_Task5_quizapp/static/js/main.a51b7b0f.js",
+    "main.js": "/Codsoft_Task5_quizapp/static/js/main.023f1166.js",
     "static/js/787.ee525d79.chunk.js": "/Codsoft_Task5_quizapp/static/js/787.ee525d79.chunk.js",
     "static/media/image.png": "/Codsoft_Task5_quizapp/static/media/image.27160b7e4c881cc64162.png",
     "index.html": "/Codsoft_Task5_quizapp/index.html",
     "main.f3e908ad.css.map": "/Codsoft_Task5_quizapp/static/css/main.f3e908ad.css.map",
-    "main.a51b7b0f.js.map": "/Codsoft_Task5_quizapp/static/js/main.a51b7b0f.js.map",
+    "main.023f1166.js.map": "/Codsoft_Task5_quizapp/static/js/main.023f1166.js.map",
     "787.ee525d79.chunk.js.map": "/Codsoft_Task5_quizapp/static/js/787.ee525d79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f3e908ad.css",
-    "static/js/main.a51b7b0f.js"
+    "static/js/main.023f1166.js"
   ]
 }
